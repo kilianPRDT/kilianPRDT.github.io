@@ -2,7 +2,12 @@
 @font-face {
  font-family: 'Avenir';
  src: 
-  url ('https://kilianPRDT.github.io/AvenirGit/AvenirLTStd-Light.otf') format('otf');
+  url ('https://kilianPRDT.github.io/AvenirGit/AvenirLTStd-Light.otf') format('otf'),
+  url ('https://kilianPRDT.github.io/AvenirGit/AvenirLTStd-Heavy.otf') format('otf'),
+  url ('https://kilianPRDT.github.io/AvenirGit/AvenirLTStd-HeavyOblique.otf') format('otf'),
+  url ('https://kilianPRDT.github.io/AvenirGit/AvenirLTStd-LightOblique.otf') format('otf'),
+  url ('https://kilianPRDT.github.io/AvenirGit/AvenirLTStd-Oblique.otf') format('otf'),
+  url ('https://kilianPRDT.github.io/AvenirGit/AvenirLTStd-Roman.otf') format('otf');
  
  font-style: normal;
  font-weight: normal;
