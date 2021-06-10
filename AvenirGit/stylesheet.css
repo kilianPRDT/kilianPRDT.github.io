@@ -3,7 +3,8 @@
  font-family: 'BostonBlvd';
  src: 
   url('https://kilianPRDT.github.io/AvenirGit/SA-BostonBlvd.ttf') format('ttf');
-  
+ font-weight: normal;
+ font-style: normal; 
   
   
   /*url('https://kilianPRDT.github.io/AvenirGit/AvenirLTStd-Heavy.otf') format('otf'),
