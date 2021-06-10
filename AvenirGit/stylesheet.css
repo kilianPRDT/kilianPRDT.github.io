@@ -1,8 +1,11 @@
 /* Avenir */
 @font-face {
- font-family: 'Avenir';
+ font-family: 'Avenir';
+ src: 
+  url ('https://kilianPRDT.github.io/AvenirGit/AvenirLTStd-Light.otf') format('otf');
+ 
  font-style: normal;
  font-weight: normal;
- src: url ('https://kilianPRDT.github.io/AvenirGit/AvenirLTStd-Light.otf') format('otf');
+ 
 }
  
